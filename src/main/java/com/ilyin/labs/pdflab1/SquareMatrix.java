@@ -1,4 +1,4 @@
-package com.ilyin.labs.lab1;
+package com.ilyin.labs.pdflab1;
 
 public class SquareMatrix extends Matrix {
     public SquareMatrix(int n) {

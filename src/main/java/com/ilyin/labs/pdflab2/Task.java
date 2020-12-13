@@ -1,4 +1,4 @@
-package com.ilyin.labs.lab2;
+package com.ilyin.labs.pdflab2;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
@@ -7,9 +7,7 @@ import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
 import javafx.stage.Stage;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 public class Task extends Application {
 

@@ -1,8 +1,4 @@
-package com.ilyin.labs.lab1;
-
-import java.security.PrivateKey;
-import java.util.Random;
-import java.util.function.Supplier;
+package com.ilyin.labs.pdflab1;
 
 public class Matrix {
     private int[][] matrix;

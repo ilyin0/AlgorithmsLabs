@@ -1,8 +1,7 @@
-package com.ilyin.labs.lab1;
+package com.ilyin.labs.pdflab1;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.chart.Axis;
 import javafx.scene.chart.LineChart;
 import javafx.scene.chart.NumberAxis;
 import javafx.scene.chart.XYChart;
