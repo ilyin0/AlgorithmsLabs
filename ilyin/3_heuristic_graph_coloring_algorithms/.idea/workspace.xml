@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="65a81e07-aa87-420c-a264-6a9a8dd69af9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/Classes/Edge.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/Classes/Edge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/Classes/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/Classes/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/Classes/Vertex.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/Classes/Vertex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/Printer/MatrixPrinter.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/Printer/MatrixPrinter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/validator/EdgeValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/validator/EdgeValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GraphColoring/src/by/gapanovich/algorithms/validator/GraphValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/GraphColoring/src/by/ilyin/algorithms/validator/GraphValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travel/src/by/gapanivich/Algorithms/Algorithms.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Travel/src/by/ilyin/Algorithms/Algorithms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Travel/src/by/gapanivich/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Travel/src/by/ilyin/Main/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/Developer/tools/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tCMSnZeoAYG3USaRgbqIqdfBqZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.ilyin.algorithms.Main.Main" />
+      <module name="Heuristic graph coloring algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.ilyin.algorithms.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.gapanovich.algorithms.Main.Main" />
+      <module name="Heuristic graph coloring algorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.gapanovich.algorithms.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a81e07-aa87-420c-a264-6a9a8dd69af9" name="Default Changelist" comment="" />
+      <created>1622268620148</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622268620148</updated>
+      <workItem from="1622268623853" duration="3573000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1062" height="601" key="GridCell.Tab.0.bottom" timestamp="1622277639120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="601" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1622277639120" />
+    <state width="1062" height="601" key="GridCell.Tab.0.center" timestamp="1622277639119">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="601" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1622277639119" />
+    <state width="1062" height="601" key="GridCell.Tab.0.left" timestamp="1622277639118">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="601" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1622277639118" />
+    <state width="1062" height="601" key="GridCell.Tab.0.right" timestamp="1622277639120">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1062" height="601" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1622277639120" />
+  </component>
+</project>

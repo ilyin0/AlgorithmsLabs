@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Game of Life</title>
+    <!-- Our Style Sheet -->
+    <link rel="stylesheet" href='style.css'>
+</head>
+<body>
+    <div id='world'></div>
+    
+    <h2>Click on table cells to toggle the cells as alive or dead.</h2>
+    <h3>Click the Start Reproducing button to Start and Stop</h3>
+    <Input type='button' id='btnstartstop' value='Start Reproducing' onclick='startStopGol();'/>
+    <Input type='button' id='btnreset' value='Reset World' onclick='resetWorld();'/>    
+
+    <div>
+        <input type='button' value='Evolve' onclick='evolve()'.>
+    </div>
+
+    <script src='script.js'></script>
+</body>
+</html>
