@@ -53,12 +53,14 @@ public class BoyerMoore {
     public int search(InputStream in) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(in));
         String s = "";
+        int sum = 0;
         int searchResult = 0;
         while(searchResult == s.length()) {
+            sum+=s.length();
             s = br.readLine();
             searchResult = search(s);
         }
-        return searchResult;
+        return searchResult+sum;
     }
 
 }
