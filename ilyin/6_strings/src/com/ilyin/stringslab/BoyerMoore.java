@@ -1,5 +1,10 @@
 package com.ilyin.stringslab;
 
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStream;
+import java.io.InputStreamReader;
+
 public class BoyerMoore {
     private final int R;     // the radix
     private int[] right;     // the bad-character skip array
@@ -43,6 +48,17 @@ public class BoyerMoore {
             if (skip == 0) return i;    // found
         }
         return n;                       // not found
+    }
+
+    public int search(InputStream in) throws IOException {
+        BufferedReader br = new BufferedReader(new InputStreamReader(in));
+        String s = "";
+        int searchResult = 0;
+        while(searchResult == s.length()) {
+            s = br.readLine();
+            searchResult = search(s);
+        }
+        return searchResult;
     }
 
 }
